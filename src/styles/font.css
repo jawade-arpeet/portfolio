@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "LayGrotesk";
+    src: url("/fonts/laygrotesk-regular.otf") format("opentype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "LayGrotesk";
+    src: url("/fonts/laygrotesk-medium.otf") format("opentype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "LayGrotesk";
+    src: url("/fonts/laygrotesk-semibold.otf") format("opentype");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "LayGrotesk";
+    src: url("/fonts/laygrotesk-bold.otf") format("opentype");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "LayGrotesk";
+    src: url("/fonts/laygrotesk-black.otf") format("opentype");
+    font-weight: 900;
+}
